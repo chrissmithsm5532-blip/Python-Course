@@ -1,4 +1,3 @@
 Wash the car
-Clean teeth
-Wash the dishes
-Clean Car
+Clean teeth 
+nowWash the dishes
